@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CarneAsadude
 - 👀 I’m interested in making responsive websites
-- 🌱 I’m currently learning CSS/Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning React.JS
+- 💞️ I’m looking to collaborate on anything to help me grow as a developer
+- 📫 How to reach me Arturo-RS@outlook.com
 
 <!---
 CarneAsadude/CarneAsadude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
