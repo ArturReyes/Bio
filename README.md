@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarneAsadude
 - 👀 I’m interested in making responsive websites
-- 🌱 I’m currently learning React.JS
+- 🌱 I’m currently learning CSS/SASS
 - 💞️ I’m looking to collaborate on anything to help me grow as a developer
 - 📫 How to reach me Arturo-RS@outlook.com
 
