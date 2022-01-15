@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CarneAsadude
+- 👋 Hi, I’m @Arturo-RS
 - 👀 I’m interested in making responsive websites
 - 🌱 I’m currently learning CSS/SASS
 - 💞️ I’m looking to collaborate on anything to help me grow as a developer
