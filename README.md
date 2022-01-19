@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arturo-RS
-- 👀 I’m interested in making responsive websites
-- 🌱 I’m currently learning CSS/SASS
+- 👀 I’m interested in making accesible, responsive and beautiful web experiences.
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on anything to help me grow as a developer
 - 📫 How to reach me Arturo-RS@outlook.com
 
